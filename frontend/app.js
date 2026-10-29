@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000'; // Позже заменим на реальный адрес
+const API_URL = 'https://pomidorki-rk6c.onrender.com'; // Позже заменим на реальный адрес
 
 // Telegram WebApp Init
 const tg = window.Telegram.WebApp;
